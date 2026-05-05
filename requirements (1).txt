@@ -1,0 +1,4 @@
+streamlit
+tflite-runtime
+numpy
+Pillow
